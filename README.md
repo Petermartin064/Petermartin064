@@ -105,7 +105,7 @@ Scanning repositories...
 
 ### `$ FEATURED PROJECTS`
 
-<a href="https://github.com/Petermartin064/orbital-portfolio">
+<a href="https://orbital-portfolio.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project1&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
 </a>
 
