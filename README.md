@@ -1,84 +1,207 @@
-# 👋 Hello World, I'm Peter Martin
+# ACCESSING SYSTEM...
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Peter%20Martin&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=SYSTEM%20BREACH&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header banner" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ESTABLISHING+SECURE+CONNECTION;BYPASSING+SECURITY+PROTOCOLS;ACCESSING+DEVELOPER+PROFILE;WELCOME+TO+PETER'S+TERMINAL)](https://git.io/typing-svg)
 </div>
 
-<p align="center">
-  <a href="https://github.com/Petermartin064"><img src="https://img.shields.io/github/followers/Petermartin064?label=Followers&style=social" alt="GitHub Badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=Petermartin064&color=brightgreen" alt="Profile Views">
-</p>
+<div align="center">
+  <a href="https://github.com/Petermartin064"><img src="https://komarev.com/ghpvc/?username=Petermartin064&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
+</div>
 
-## 💫 About Me
-```javascript
-const peter = {
-  location: "Earth 🌍",
-  currentFocus: "Building innovative solutions",
-  passions: ["Coding", "Problem Solving", "Learning New Technologies"],
-  challenge: "Improving 1% every day"
-};
+```
+ _____   _____ _______ _______ _____            __  __          _____ _______ _____ _   _ 
+|  __ \ / ____|__   __|__   __|  __ \     /\   |  \/  |   /\   |  __ \__   __|_   _| \ | |
+| |__) | (___    | |     | |  | |__) |   /  \  | \  / |  /  \  | |__) | | |    | | |  \| |
+|  ___/ \___ \   | |     | |  |  _  /   / /\ \ | |\/| | / /\ \ |  _  /  | |    | | | . ` |
+| |     ____) |  | |     | |  | | \ \  / ____ \| |  | |/ ____ \| | \ \  | |   _| |_| |\  |
+|_|    |_____/   |_|     |_|  |_|  \_\/_/    \_\_|  |_/_/    \_\_|  \_\ |_|  |_____|_| \_|
+                                                                                          
 ```
 
-## 🚀 My Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Petermartin064&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petermartin064&layout=compact&theme=radical" alt="Top Languages" height="170" />
+
+### `$ SYSTEM INFO`
+
+![OS](https://img.shields.io/badge/OS-DEVELOPER-brightgreen?style=for-the-badge&logo=linux)
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge)
+![VERSION](https://img.shields.io/badge/VERSION-1.0.0-brightgreen?style=for-the-badge)
+
+</div>
+
+<br />
+
+<div id="terminal">
+
+```bash
+peter@github:~$ whoami
+petermartin064
+
+peter@github:~$ cat profile.json
+{
+  "name": "Peter Martin",
+  "title": "Software Developer",
+  "location": "Earth",
+  "status": "Building innovative solutions",
+  "interests": ["Coding", "Problem Solving", "Learning New Tech"]
+}
+
+peter@github:~$ ls -la skills/
+total 8
+drwxr-xr-x  2 peter peter 4096 Apr 04 2025 .
+drwxr-xr-x 10 peter peter 4096 Apr 04 2025 ..
+-rw-r--r--  1 peter peter  220 Apr 04 2025 languages.txt
+-rw-r--r--  1 peter peter  340 Apr 04 2025 frameworks.txt
+-rw-r--r--  1 peter peter  180 Apr 04 2025 tools.txt
+
+peter@github:~$ cat skills/languages.txt
+JavaScript
+Python
+HTML/CSS
+SQL
+TypeScript
+
+peter@github:~$ cat skills/frameworks.txt
+React
+Node.js
+Express
+Django
+TensorFlow
+
+peter@github:~$ cat skills/tools.txt
+Git
+Docker
+AWS
+VS Code
+Linux
+
+peter@github:~$ ./run_stats.sh
+Running system diagnostics...
+```
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Petermartin064&theme=radical" alt="GitHub Streak" />
+
+### `$ SYSTEM METRICS`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petermartin064&show_icons=true&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petermartin064&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
+
 </div>
 
-## 🏆 Featured Projects
-<div align="center">
-  <a href="https://github.com/Petermartin064/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Petermartin064/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project2&theme=radical" />
-  </a>
-</div>
+<div id="terminal">
 
-<!-- Replace project1 and project2 with actual project repository names when you have them -->
+```bash
+peter@github:~$ ./scan_projects.sh
+Scanning repositories...
+```
 
-## 🔥 Contribution Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Petermartin064&theme=react-dark" width="100%" />
-</div>
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/peter-martin064/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/KirikaMart" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:petermartin602@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+### `$ FEATURED PROJECTS`
+
+<a href="https://github.com/Petermartin064/project1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project1&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/Petermartin064/project2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project2&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+</a>
+
+<!-- Replace project1 and project2 with actual project repository names -->
+
 </div>
+
+<div id="terminal">
+
+```bash
+peter@github:~$ ./check_contributions.sh
+Analyzing contribution patterns...
+```
+
+</div>
+
+<div align="center">
+
+### `$ CONTRIBUTION MATRIX`
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petermartin064&theme=chartreuse-dark&border=00FF00&background=0D1117&stroke=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF)
+
+</div>
+
+<div id="terminal">
+
+```bash
+peter@github:~$ ./establish_connection.sh
+Establishing secure connection channels...
+```
+
+</div>
+
+<div align="center">
+
+### `$ COMMUNICATION CHANNELS`
+
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/your-twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<div id="terminal">
+
+```bash
+peter@github:~$ ./get_random_quote.sh
+Fetching inspiration...
+```
+
+</div>
+
+<div align="center">
+
+### `$ SYSTEM MESSAGE`
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+
+</div>
+
+<div id="terminal">
+
+```bash
+peter@github:~$ exit
+Closing connection...
+Connection terminated. Thank you for visiting!
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=ffffff" alt="footer banner" />
+</div>
+
+<!-- Add this JavaScript at the end of your README to create typing animation effect -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var options = {
+      strings: ['echo "Hello, visitor!"', 'cat profile.json', 'ls -la skills/', 'python -c "print(\'Welcome!\')"'],
+      typeSpeed: 50,
+      backSpeed: 30,
+      backDelay: 1500,
+      startDelay: 1000,
+      loop: true
+    };
+    
+    var typed = new Typed('#typing-animation', options);
+  });
+</script>
