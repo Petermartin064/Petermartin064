@@ -180,9 +180,9 @@ Connection terminated. Thank you for visiting!
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="neural-network.svg" alt="Neural Network Visualization" width="800" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=ffffff" alt="footer banner" />
