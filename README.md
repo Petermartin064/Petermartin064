@@ -105,11 +105,8 @@ Scanning repositories...
 
 ### `$ FEATURED PROJECTS`
 
-<a href="https://github.com/Petermartin064/project1">
+<a href="https://github.com/Petermartin064/orbital-portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project1&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/Petermartin064/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Petermartin064&repo=project2&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
 </a>
 
 <!-- Replace project1 and project2 with actual project repository names -->
@@ -146,13 +143,13 @@ Establishing secure connection channels...
 
 ### `$ COMMUNICATION CHANNELS`
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/peter-martin064/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/your-twitter">
+<a href="https://x.com/KirikaMart">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:petermartin602.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
