@@ -185,20 +185,3 @@ Connection terminated. Thank you for visiting!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=ffffff" alt="footer banner" />
 </div>
-
-<!-- Add this JavaScript at the end of your README to create typing animation effect -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var options = {
-      strings: ['echo "Hello, visitor!"', 'cat profile.json', 'ls -la skills/', 'python -c "print(\'Welcome!\')"'],
-      typeSpeed: 50,
-      backSpeed: 30,
-      backDelay: 1500,
-      startDelay: 1000,
-      loop: true
-    };
-    
-    var typed = new Typed('#typing-animation', options);
-  });
-</script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
