@@ -187,7 +187,6 @@ Connection terminated. Thank you for visiting!
 </div>
 
 <!-- Add this JavaScript at the end of your README to create typing animation effect -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var options = {
@@ -202,3 +201,4 @@ Connection terminated. Thank you for visiting!
     var typed = new Typed('#typing-animation', options);
   });
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
