@@ -103,7 +103,11 @@ Scanning repositories...
 
 <div align="center">
 
-<!-- Replace project1 and project2 with actual project repository names -->
+<div align="center">
+  <a href="https://Petermartin064.github.io/petermartin-dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/ACCESS-INTERACTIVE%20DASHBOARD-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Dashboard" />
+  </a>
+</div>
 
 </div>
 
@@ -179,3 +183,4 @@ Connection terminated. Thank you for visiting!
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontSize=24&fontAlignY=80&animation=fadeIn&fontColor=ffffff" alt="footer banner" />
 </div>
+
