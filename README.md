@@ -116,7 +116,6 @@ Scanning repositories...
 
 ### `$ FEATURED PROJECTS`
 
-* 🔐 [Escrow Courier](https://github.com/Petermartin064/escrowcourier) – Secure document and file exchange system.
 * 📊 [Developer Dashboard](https://Petermartin064.github.io/petermartin-dashboard) – Interactive GitHub metrics and analytics.
 * 🧠 [AI Playground](https://github.com/Petermartin064/ai-playground) – Experiments with machine learning models.
 
