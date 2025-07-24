@@ -2,35 +2,36 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=SYSTEM%20BREACH&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header banner" />
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ESTABLISHING+SECURE+CONNECTION;BYPASSING+SECURITY+PROTOCOLS;ACCESSING+DEVELOPER+PROFILE;WELCOME+TO+PETER'S+TERMINAL)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1500\&color=00FF00\&center=true\&vCenter=true\&width=435\&lines=ESTABLISHING+SECURE+CONNECTION;BYPASSING+SECURITY+PROTOCOLS;ACCESSING+DEVELOPER+PROFILE;WELCOME+TO+PETER'S+TERMINAL)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
   <a href="https://github.com/Petermartin064"><img src="https://komarev.com/ghpvc/?username=Petermartin064&style=for-the-badge&color=brightgreen" alt="Profile Views"></a>
+  <img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Dark Mode">
 </div>
 
 ```
-_____  ______ _______ ______ _____  __  __          _____  _______ _____ _   _ 
+_____  ______ _______ ______ _____  __  __          _____  _______ _____ _   _
 |  __ \|  ____|__   __|  ____|  __ \|  \/  |   /\   |  __ \|__   __|_   _| \ | |
 | |__) | |__     | |  | |__  | |__) | \  / |  /  \  | |__) |  | |    | | |  \| |
 |  ___/|  __|    | |  |  __| |  _  /| |\/| | / /\ \ |  _  /   | |    | | | . ` |
 | |    | |____   | |  | |____| | \ \| |  | |/ ____ \| | \ \   | |   _| |_| |\  |
 |_|    |______|  |_|  |______|_|  \_\_|  |_/_/    \_\_|  \_\  |_|  |_____|_| \_|
-                                                                                          
 ```
 
 <div align="center">
 
 ### `$ SYSTEM INFO`
 
-![OS](https://img.shields.io/badge/OS-DEVELOPER-brightgreen?style=for-the-badge&logo=linux)
+![OS](https://img.shields.io/badge/OS-DEVELOPER-brightgreen?style=for-the-badge\&logo=linux)
 ![STATUS](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge)
 ![VERSION](https://img.shields.io/badge/VERSION-1.0.0-brightgreen?style=for-the-badge)
 
 </div>
 
-<br />
+---
 
 <div id="terminal">
 
@@ -46,21 +47,25 @@ peter@github:~$ cat profile.json
   "status": "Building innovative solutions",
   "interests": ["Coding", "Problem Solving", "Learning New Tech"]
 }
+```
 
+---
+
+```bash
 peter@github:~$ ls -la skills/
-total 8
+total 12
 drwxr-xr-x  2 peter peter 4096 Apr 04 2025 .
 drwxr-xr-x 10 peter peter 4096 Apr 04 2025 ..
 -rw-r--r--  1 peter peter  220 Apr 04 2025 languages.txt
 -rw-r--r--  1 peter peter  340 Apr 04 2025 frameworks.txt
--rw-r--r--  1 peter peter  180 Apr 04 2025 tools.txt
+-rw-r--r--  1 peter peter  240 Apr 04 2025 tools.txt
 
 peter@github:~$ cat skills/languages.txt
 JavaScript
 Python
+TypeScript
 HTML/CSS
 SQL
-TypeScript
 
 peter@github:~$ cat skills/frameworks.txt
 React
@@ -70,12 +75,16 @@ Django
 TensorFlow
 
 peter@github:~$ cat skills/tools.txt
-Git
-Docker
-AWS
-VS Code
-Linux
+Version Control: Git, GitHub
+Containers: Docker
+Cloud: AWS, Vercel
+Editors: VS Code, Vim
+OS: Linux, Windows
+```
 
+---
+
+```bash
 peter@github:~$ ./run_stats.sh
 Running system diagnostics...
 ```
@@ -86,11 +95,13 @@ Running system diagnostics...
 
 ### `$ SYSTEM METRICS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petermartin064&show_icons=true&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petermartin064\&show_icons=true\&theme=chartreuse-dark\&border_color=00FF00\&bg_color=0D1117\&title_color=00FF00\&icon_color=00FF00\&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petermartin064&layout=compact&theme=chartreuse-dark&border_color=00FF00&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petermartin064\&layout=compact\&theme=chartreuse-dark\&border_color=00FF00\&bg_color=0D1117\&title_color=00FF00\&text_color=FFFFFF)
 
 </div>
+
+---
 
 <div id="terminal">
 
@@ -103,13 +114,15 @@ Scanning repositories...
 
 <div align="center">
 
-<div align="center">
-  <a href="https://Petermartin064.github.io/petermartin-dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/ACCESS-INTERACTIVE%20DASHBOARD-00FF00?style=for-the-badge&logo=github&logoColor=white" alt="Interactive Dashboard" />
-  </a>
-</div>
+### `$ FEATURED PROJECTS`
+
+* 🔐 [Escrow Courier](https://github.com/Petermartin064/escrowcourier) – Secure document and file exchange system.
+* 📊 [Developer Dashboard](https://Petermartin064.github.io/petermartin-dashboard) – Interactive GitHub metrics and analytics.
+* 🧠 [AI Playground](https://github.com/Petermartin064/ai-playground) – Experiments with machine learning models.
 
 </div>
+
+---
 
 <div id="terminal">
 
@@ -124,9 +137,32 @@ Analyzing contribution patterns...
 
 ### `$ CONTRIBUTION MATRIX`
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petermartin064&theme=chartreuse-dark&border=00FF00&background=0D1117&stroke=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petermartin064\&theme=chartreuse-dark\&border=00FF00\&background=0D1117\&stroke=00FF00\&fire=00FF00\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&currStreakLabel=00FF00\&sideLabels=00FF00\&dates=FFFFFF)
 
 </div>
+
+---
+
+<div id="terminal">
+
+```bash
+peter@github:~$ ./get_certifications.sh
+Retrieving credentials...
+```
+
+</div>
+
+<div align="center">
+
+### `$ CERTIFICATIONS`
+
+* ✅ TensorFlow Developer Certificate
+* ✅ AWS Cloud Practitioner – 2025
+* ✅ Responsive Web Design – freeCodeCamp
+
+</div>
+
+---
 
 <div id="terminal">
 
@@ -147,11 +183,13 @@ Establishing secure connection channels...
 <a href="https://x.com/KirikaMart">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="mailto:petermartin602.com">
+<a href="mailto:petermartin602@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
+
+---
 
 <div id="terminal">
 
@@ -166,13 +204,21 @@ Fetching inspiration...
 
 ### `$ SYSTEM MESSAGE`
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=chartreuse-dark)
 
 </div>
+
+---
 
 <div id="terminal">
 
 ```bash
+peter@github:~$ sudo make me a sandwich
+> You're not root.
+
+peter@github:~$ fortune
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 peter@github:~$ exit
 Closing connection...
 Connection terminated. Thank you for visiting!
